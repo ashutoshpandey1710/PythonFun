@@ -29,7 +29,6 @@ def kthsmallest(arr1, arr2, k):
 			pass
 				
 	return ksm
-				
-		
+
 if __name__ == '__main__':
 	print kthsmallest([1, 8, 10, 12], [2, 4, 9, 10], 12)
